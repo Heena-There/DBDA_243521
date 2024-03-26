@@ -1,0 +1,1 @@
+Cloud computing is one of the module of DBDA course. It contains the virtualisation and contanrisation which allows us to use OS.
